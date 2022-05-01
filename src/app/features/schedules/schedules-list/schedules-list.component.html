@@ -49,7 +49,7 @@
         *ngSwitchCase="CalendarView.Week"
         [viewDate]="viewDate"
         [events]="events"
-        [dayStartHour]="13"
+        [dayStartHour]="00"
         [dayEndHour]="23"
         (beforeViewRender)="onBeforeRenderWeek($event)"
         (hourSegmentClicked)="onSegmentClick($event.date)"
