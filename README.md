@@ -47,3 +47,5 @@ Nessa aula iremos implementar um calendário, utilizando o componente angular-ca
     npm start
     ```
 - Abra o seu browser na seguinte URL: http://localhost:4200
+
+### Running on heroku
